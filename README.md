@@ -9,7 +9,7 @@ Aplicativo que tem o objetivo de aproximar instituições de caridade e doadores
 #### Larisse Almeida Pereira de Lima
 #### Marly Bahri Mello
 
-### Instalação
+## Instalação
 
 Para rodar nosso App é necessario ter instalado o pacote de modulos do node.js em sua máquina.
 Após isso siga os seguintes comandos:
