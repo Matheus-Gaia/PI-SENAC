@@ -3,11 +3,11 @@
 Aplicativo que tem o objetivo de aproximar instituições de caridade e doadores de equipamentos de tecnologia.
 
 ## Autores
-Rômulo Silva Rocha  
-Matheus Gaia da Costa Nunes
-Lademir Salomão Bechara
-Larisse Almeida Pereira de Lima
-Marly Bahri Mello
+#### Rômulo Silva Rocha  
+#### Matheus Gaia da Costa Nunes
+#### Lademir Salomão Bechara
+#### Larisse Almeida Pereira de Lima
+#### Marly Bahri Mello
 
 ### Instalação
 
